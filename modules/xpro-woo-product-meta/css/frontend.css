@@ -1,0 +1,9 @@
+.product_meta {
+	border-top: 1px solid #d8d6d6;
+	border-bottom: 1px solid #d8d6d6;
+	padding: 10px 20px;
+}
+
+.product_meta a {
+	text-decoration: none;
+}
